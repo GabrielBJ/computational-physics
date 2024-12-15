@@ -1,5 +1,5 @@
 # COMPUTATIONAL PHYSICS
-This repo is a updated version of my previous `computational-physics-I`repository. I decided to gather all the content regarding computational physics together to avoid creating multiple repositories, and keep everything organised in one place. 
+This repo is an updated version of my previous `computational-physics-I`repository. I decided to gather all the content regarding computational physics together to avoid creating multiple repositories, and keep everything organised in one place. In this version I've not only included `Notebooks` but also `Python` scripts. This way, you can also learn how to write scripts in Python and run them in your terminal.
 
 This collection is designed to aid fellow students in their learning journey. Please feel free to explore the notes posted here, and if you have any questions, suggestions for improvements, or corrections, don't hesitate to open a pull request.
 
@@ -26,9 +26,6 @@ Your contributions are highly appreciated. If you find any errors, have suggesti
 In the long run, I plan to rewrite some impotant modules in C++ and Rust, so it can be used as a reference for students who are interested in learning these languages.
     
 Happy coding and learning!
-
-Gabriel Balarezo 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:quantumgabo.phys@gmail.com)
-
+[Gabriel Balarezo](mailto:quantumgabo.phys@gmail.com)
 
 

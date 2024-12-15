@@ -26,6 +26,7 @@ Your contributions are highly appreciated. If you find any errors, have suggesti
 In the long run, I plan to rewrite some impotant modules in C++ and Rust, so it can be used as a reference for students who are interested in learning these languages.
     
 Happy coding and learning!
+
 [Gabriel Balarezo](mailto:quantumgabo.phys@gmail.com)
 
 

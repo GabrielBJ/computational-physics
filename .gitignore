@@ -1,0 +1,19 @@
+# Merged .gitignore rules
+# Rules from ./computational-physics-I/.gitignore
+
+computational-physics-I/claswork-exams/figures-midterm/*.png
+computational-physics-I/claswork-exams/TURB_DRIVE_SUP_hr
+computational-physics-I/claswork-exams/AM0AM1_5.csv
+computational-physics-I/claswork-exams/h030.csv
+computational-physics-I/claswork-exams/galaxies_distance.png
+computational-physics-I/claswork-exams/NGC_5765_legacy_survey.fits
+computational-physics-I/claswork-exams/orbital_positions.csv
+computational-physics-I/claswork-exams/Quantities.csv
+computational-physics-I/Animation
+computational-physics-I/data
+computational-physics-I/output_analysis
+computational-physics-I/output_energies
+computational-physics-I/output_histograms
+computational-physics-I/output_maps
+
+files-manager

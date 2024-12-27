@@ -7,10 +7,9 @@ This collection is designed to aid fellow students in their learning journey. Pl
 - **Code Usage:** The code provided in this repository is intended as a guide for your learning process. Avoid copying the code directly; instead, use it as a reference while understanding the physical interpretation of each problem. As responsible students and future physicists, it is crucial to test your coding abilities by independently solving and implementing the solutions.
 
 ## Content 
-1. [Computational Physics I](./computational-physics-I)
+1. [Computational Physics I](./computational-physics-1)
 
-2. [Computational Physics II](./computational-physics-II)
-
+2. [Computational Physics II](./computational-physics-2)
 
 3. [Special Topics on Computational Physics](./special-topics-comp-phys)
 
